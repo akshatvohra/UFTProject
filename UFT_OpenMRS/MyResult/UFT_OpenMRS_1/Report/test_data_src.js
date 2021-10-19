@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\vakshat\\Documents\\Unified Functional Testing\\UFT_OpenMRS\\MyResult\\UFT_OpenMRS_1',namePairs:[]}]};
