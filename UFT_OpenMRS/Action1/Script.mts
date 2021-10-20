@@ -46,7 +46,8 @@ End Function
 
 'Register A Patient:-
 Function RegisterPatient(PatientDataString)
-	AIUtil.FindTextBlock("Register a patient").Click
+	'AIUtil.FindTextBlock("Register a patient").Click
+	AIUtil.FindTextBlock("Register a patient", micFromTop, 1).Click
 	'Split up the string value for the data of diff section:-
 	myPatientData = Split(PatientDataString,"|")
 	
